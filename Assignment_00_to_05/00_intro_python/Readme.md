@@ -1,8 +1,7 @@
 # Google Colab Notebook  
 
-00_intro_python  
-
-[Click here to open in Google Colab](https://colab.research.google.com/drive/100-LsYi4MLGx4MTa22SEkyQNuDwlu-o6?usp=drive_link)  
+ 
+# [00_intro_python ](https://colab.research.google.com/drive/100-LsYi4MLGx4MTa22SEkyQNuDwlu-o6?usp=drive_link)
 
 ## **Contents**  
 1. **01_add_two_numbers.md** - Adds two numbers.  
