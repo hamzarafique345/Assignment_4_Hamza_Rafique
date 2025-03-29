@@ -22,9 +22,3 @@
 
 ### [07_Password_Generator](https://colab.research.google.com/drive/17sIq1jUAEl1UJXicoVr36bAaL5UGs_4s?usp=drive_link)
 📌 A program that generates strong random passwords based on user preferences. It demonstrates string handling, lists, and randomization.  
-
-### [08_BMI_Calculator]()  
-📌 A simple calculator that computes Body Mass Index (BMI) based on user input. It introduces basic mathematical operations and conditionals.  
-
-### [09_Python_Website_Streamlit](z)  
-📌 A project using **Streamlit** to create a basic website with Python. It helps students explore web development without complex frontend coding.  
